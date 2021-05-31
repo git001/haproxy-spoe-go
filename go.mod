@@ -1,4 +1,4 @@
-module github.com/criteo/haproxy-spoe-go
+module github.com/git001/haproxy-spoe-go
 
 go 1.15
 
